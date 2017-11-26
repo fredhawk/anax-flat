@@ -1,0 +1,31 @@
+---
+views: 
+  sidebar: 
+    region: sidebar-left 
+    template: default/content 
+    sort: 
+    data: 
+      meta:
+        type: content 
+        route: block/grid-sidebar
+...
+# Kmom02
+
+### Vad tycker du om LESS så här långt, och det sättet vi jobbar med LESS-moduler i vårt tema?
+
+Tycker det är ett smidigt sätt att arbeta på. Strukturerat och lätt att utöka.
+
+### Hur kändes det att kompilera LESS till CSS, var det något du reflekterade över?
+
+Har arbetat med SCSS/Sass tidigare så detta var inget nytt.
+
+### Har du varit bekant med Makefiler och make sedan tidigare, eller något liknande byggverktyg? Hur uppfattar du make så här långt?
+
+Har inte använt make filer tidigare men har använt gulp, webpack, npm-scripts
+och bash-script tidigare. Fungerar ungefär på samma sätt.
+
+### Fann du nytta i de videor som var kopplade till detta kursmoment?
+
+Ja de förklarade bra visuellt vad det var tänkt att man skulle göra och hur ni
+ville att man skulle lösa uppgiften. Jag lär mig bättre genom visuellt medium så
+det passar mig.

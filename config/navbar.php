@@ -32,6 +32,16 @@ return [
                 "url"   => $this->di->get("url")->create("test"),
                 "title" => t("Testar denna hemsidan")
             ],
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typography")
+            ],
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Grid")
+            ],
         ],
     ],
 
@@ -65,6 +75,16 @@ return [
                 "text"  => t("Test"),
                 "url"   => $this->di->get("url")->create("test"),
                 "title" => t("Testar denna hemsidan")
+            ],
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typography")
+            ],
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Grid")
             ],
         ],
     ],
