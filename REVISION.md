@@ -1,6 +1,17 @@
 Revision history
 =======================================
 
+v4.0.0 (2017-12-03)
+---------------------------------------
+
+* Refactored theme structure
+* Added base theme
+* Added light theme
+* Added color theme
+* Added dark theme
+* Added colorful theme
+* Added typography theme based on the color theme
+
 v3.0.0 (2017-11-26)
 ---------------------------------------
 

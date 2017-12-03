@@ -1,6 +1,6 @@
 Om denna kursen
 ==============================================
-![Principles of design](img/elements-and-principles-of-design.jpg)
+![Principles of design](img/elements-and-principles-of-design.jpg) {.about}
 
 
 Som en del i kursen [DBWebb kursen Design](http://dbwebb.se/design).
