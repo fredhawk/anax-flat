@@ -1,7 +1,15 @@
 Revision history
 =======================================
 
+v5.0.0 (2017-12-11)
+---------------------------------------
+
+* Added figure.less
+* Added Blog
+* Added analysis of sites
+
 v4.0.0 (2017-12-03)
+v4.0.1 (2017-12-10)
 ---------------------------------------
 
 * Refactored theme structure
