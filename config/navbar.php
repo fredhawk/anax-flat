@@ -62,6 +62,11 @@ return [
                 "url"   => $this->di->get("url")->create("images"),
                 "title" => t("Images")
             ],
+            "design_element" => [
+                "text"  => t("Design Element"),
+                "url"   => $this->di->get("url")->create("design_element"),
+                "title" => t("Design Element")
+            ],
         ],
     ],
 
@@ -126,6 +131,12 @@ return [
                 "url"   => $this->di->get("url")->create("images"),
                 "title" => t("Images")
             ],
+            "design_element" => [
+                "text"  => t("Design Element"),
+                "url"   => $this->di->get("url")->create("design_element"),
+                "title" => t("Design Element")
+            ],
+
         ],
     ],
 

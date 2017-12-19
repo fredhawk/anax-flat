@@ -81,7 +81,56 @@ return [
         "fun"       => [
             "title"      => "All fun, test and play, make it stand out!",
             "class"      => "fun",
-            "stylesheets" => []
+            "stylesheets" => [
+                "css/typography.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "separator3" => "------------------------------------------------",
+
+        "background"       => [
+            "title"      => "Theme with a background image.",
+            "class"      => "background",
+            "stylesheets" => [
+                "css/background.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+        "texture"       => [
+            "title"      => "Theme with a texture.",
+            "class"      => "texture",
+            "stylesheets" => [
+                "css/texture.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+        "gradient"       => [
+            "title"      => "Theme with a gradient.",
+            "class"      => "gradient",
+            "stylesheets" => [
+                "css/gradient.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "separator4" => "------------------------------------------------",
+        
+        "fun"       => [
+            "title"      => "All fun, test and play, make it stand out!",
+            "class"      => "fun",
+            "stylesheets" => [
+                "css/typography.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+        "fun"       => [
+            "title"      => "All fun, test and play, make it stand out!",
+            "class"      => "fun",
+            "stylesheets" => [
+                "css/typography.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
         ],
     ]
 ];
