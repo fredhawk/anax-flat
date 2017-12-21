@@ -116,19 +116,19 @@ return [
 
         "separator4" => "------------------------------------------------",
         
-        "fun"       => [
-            "title"      => "All fun, test and play, make it stand out!",
-            "class"      => "fun",
+        "perspective"       => [
+            "title"      => "Tema med perspektiv.",
+            "class"      => "perspective",
             "stylesheets" => [
-                "css/typography.min.css",
+                "css/perspective.min.css",
                 "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
             ]
         ],
-        "fun"       => [
-            "title"      => "All fun, test and play, make it stand out!",
-            "class"      => "fun",
+        "balance"       => [
+            "title"      => "Balancerat tema.",
+            "class"      => "balance",
             "stylesheets" => [
-                "css/typography.min.css",
+                "css/balance.min.css",
                 "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
             ]
         ],
