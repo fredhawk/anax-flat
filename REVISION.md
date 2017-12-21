@@ -1,6 +1,13 @@
 Revision history
 =======================================
 
+v6.0.0 (2017-12-21)
+----
+
+* Added design element themes
+* Added design principles themes
+* Added analysis of desing on sites.
+
 v5.0.0 (2017-12-11)
 ---------------------------------------
 
