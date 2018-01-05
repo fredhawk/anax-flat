@@ -1,11 +1,12 @@
 Användbarhet
 ==========================
 
-### Metod
+Metod
+----
 Undersöker användbarheten på sidor genom att läsa igenom [Användbarhetsprinciper](https://www.nngroup.com/articles/usability-101-introduction-to-usability/) och sätta betyg 1-5 utefter hur de presterar inom kategorierna Learnability, Efficiency, Memorability, Errors och Satisfaciton.
 
-### Urval
-
+Urval
+----
 Jag har valt fyra sidor som jag besöker ofta. Prisjakt, Github, Youtube och Reddit.
 Detta för att se om de är så bra som man tänker sig eller om man bara blivit van vid deras fel och brister.
 
@@ -131,7 +132,6 @@ Poäng 5 / 5.
 
 Total poäng 19 / 25
 
-----
 Result
 ----
 1. Youtube, 22 / 25
@@ -139,7 +139,6 @@ Result
 3. Reddit, 19 / 25
 4. GitHub, 18 / 25
 
-----
 Slutledning
 ----
 På det hela taget gör alla ett bra jobb med att guida användaren till det som sidan är till för i min mening. Ännu mer imponerande är att sidor som är så "tunga" som Reddit och GitHub ändå kan göra ett så pass bra jobb med användbarheten. De har en mycket högre informationsdensitet och GitHub är dessutom mycket mer komplex än de andra.
