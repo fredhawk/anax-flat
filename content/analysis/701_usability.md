@@ -130,3 +130,18 @@ Man kan själv välja tema på sidan om man vill. Kategorier har ofta sina egna 
 Poäng 5 / 5.
 
 Total poäng 19 / 25
+
+----
+Result
+----
+1. Youtube, 22 / 25
+2. Prisjakt, 21 / 25
+3. Reddit, 19 / 25
+4. GitHub, 18 / 25
+
+----
+Slutledning
+----
+På det hela taget gör alla ett bra jobb med att guida användaren till det som sidan är till för i min mening. Ännu mer imponerande är att sidor som är så "tunga" som Reddit och GitHub ändå kan göra ett så pass bra jobb med användbarheten. De har en mycket högre informationsdensitet och GitHub är dessutom mycket mer komplex än de andra.
+Överraskande är också att en sida som Prisjakt står sig så bra i jämförelse med de andra. Med tanke på att Prisjakt är mycket mindre i skala än de andra.
+Alla sidor har brister de kan arbeta på. Vissa mer än andra. Hur mycket information som ska presenteras är en stor faktor med hur användbar och lättnavigerad en sida är. Ju mer information, desto svårare blir det att inte överväldiga användaren.
